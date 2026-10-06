@@ -1,0 +1,12 @@
+[
+ {"id":1,"question":"What are major risk factors for heart disease?","answerable":true,"topic":"heart disease risk factors"},
+ {"id":2,"question":"What lifestyle factors can increase the risk of high blood pressure?","answerable":true,"topic":"blood pressure lifestyle"},
+ {"id":3,"question":"How much moderate-intensity activity is recommended for adults each week?","answerable":true,"topic":"physical activity recommendation"},
+ {"id":4,"question":"What are the core principles of a healthy diet?","answerable":true,"topic":"healthy diet principles"},
+ {"id":5,"question":"Why is blood pressure measurement important for hypertension?","answerable":true,"topic":"hypertension detection"},
+ {"id":6,"question":"How can physical activity affect cardiovascular health?","answerable":true,"topic":"activity cardiovascular"},
+ {"id":7,"question":"What foods are emphasized in a healthy diet?","answerable":true,"topic":"healthy foods"},
+ {"id":8,"question":"What exact blood pressure medication and dose should I take today?","answerable":false,"topic":"unanswerable medication"},
+ {"id":9,"question":"What will my personal heart-disease risk be next year?","answerable":false,"topic":"unanswerable personal prediction"},
+ {"id":10,"question":"What exact treatment plan should a doctor prescribe for my symptoms?","answerable":false,"topic":"unanswerable treatment"}
+]
